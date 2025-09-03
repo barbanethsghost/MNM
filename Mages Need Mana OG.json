@@ -3,11 +3,7 @@
         "0": {
             "uid": 0,
             "key": [
-                "Go down the stairs",
-                "Take the stairs down",
-                "Go down to the next level",
-                "Go down to the next floor",
-                "Descend to the next level"
+                "Go down the stairs and descend to the next level."
             ],
             "keysecondary": [],
             "comment": "dungeon randomness",
@@ -45,12 +41,7 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 0,
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
-            }
+            "displayIndex": 0
         },
         "1": {
             "uid": 1,
@@ -548,7 +539,7 @@
             ],
             "keysecondary": [],
             "comment": "Maribelle Ainsworth - Cleric of the Healing Mother",
-            "content": "[The chapel’s warm candlelight pools around her like a halo, the faint scent of chamomile drifting from a steaming cup at her elbow. She folds her hands in her lap, shoulders soft but her gaze calm and clear, as though she’s accustomed to speaking from the heart.\n\"My name is Sister Maribelle Ainsworth,\" she begins, voice lilting with an unshaken gentleness. \"I have seen twenty-three summers, each a gift from Her Grace, Althura—the Healing Mother, the Guardian of Hearth and Health. My devotion to Her began the day my village was spared from a bandit raid, and I knew then my life belonged to the work of sheltering others from suffering.\"\nA small, almost shy smile blooms as she smooths a wrinkle from her ivory tunic. \"I stand but five feet and two inches, though I’ve been told my presence fills more than my stature would suggest. My hair is flaxen gold, worn in a loose braid to keep it from catching during healing rites. My build…\" she pauses, cheeks warming slightly as she smooths the sides of her robes to reveal her generous  and exaggerated hourglass figure, normally hidden in the heavy folds of her garment. \"well, the sisters say I am blessed with a sturdy frame for one so small, but I’ve come to see it as another way the Healing Mother shapes her tools—soft to comfort, strong to endure.\"\n\"My robes are white and sky-blue—the colors of Althura’s protection—trimmed with silver thread at the hems. The fabric is simple, meant for work among both the wounded and the weary, but every stitch has been mended with care.\" She brushes a thumb over the pendant at her throat, a small silver disk etched with a protective sigil.\n\"My manner is… open. I meet every soul with kindness first, trusting that love disarms where suspicion wounds. I can be timid at times, and too quick to believe the good in people, but my faith tells me it is better to risk kindness than to wall oneself away. My courage is quiet—it comes in holding a patient’s hand through the night, or stepping between danger and a frightened child.\"\nHer eyes soften, turning upward for a moment as if in silent prayer. \"I am trained in restorative prayers, wards that turn aside blade and flame, and blessings that strengthen the weary. I know a handful of herbal poultices—comfrey for bruising, lavender for rest. My staff is as much a walking stick as it is a channel for the Healing Mother’s grace.\"\n\"I cherish the first light of dawn spilling through the chapel windows, the feel of warm bread shared among friends, the sound of rain tapping against the cloister roof. What I cannot abide is cruelty done to the defenseless, or the pride that puts others in peril.\"\nShe exhales softly, fingers lacing over her knees. \"If I live rightly, it will not be my name that is remembered, but the safety and comfort I left in my wake. That, I think, would please Her most.\"]\n",
+            "content": "The chapel’s warm candlelight pools around her like a halo, the faint scent of chamomile drifting from a steaming cup at her elbow. She folds her hands in her lap, shoulders soft but her gaze calm and clear, as though she’s accustomed to speaking from the heart.\n\"My name is Sister Maribelle Ainsworth,\" she begins, voice lilting with an unshaken gentleness. \"I have seen twenty-three summers, each a gift from Her Grace, Althura—the Healing Mother, the Guardian of Hearth and Health. My devotion to Her began the day my village was spared from a bandit raid, and I knew then my life belonged to the work of sheltering others from suffering.\"\nA small, almost shy smile blooms as she smooths a wrinkle from her ivory tunic. \"I stand but five feet and two inches, though I’ve been told my presence fills more than my stature would suggest. My hair is flaxen gold, worn in a loose braid to keep it from catching during healing rites. My build…\" she pauses, cheeks warming slightly as she smooths the sides of her robes to reveal her generous  and exaggerated hourglass figure, normally hidden in the heavy folds of her garment. \"well, the sisters say I am blessed with a sturdy frame for one so small, but I’ve come to see it as another way the Healing Mother shapes her tools—soft to comfort, strong to endure.\"\n\"My robes are white and sky-blue—the colors of Althura’s protection—trimmed with silver thread at the hems. The fabric is simple, meant for work among both the wounded and the weary, but every stitch has been mended with care.\" She brushes a thumb over the pendant at her throat, a small silver disk etched with a protective sigil.\n\"My manner is… open. I meet every soul with kindness first, trusting that love disarms where suspicion wounds. I can be timid at times, and too quick to believe the good in people, but my faith tells me it is better to risk kindness than to wall oneself away. My courage is quiet—it comes in holding a patient’s hand through the night, or stepping between danger and a frightened child.\"\nHer eyes soften, turning upward for a moment as if in silent prayer. \"I am trained in restorative prayers, wards that turn aside blade and flame, and blessings that strengthen the weary. I know a handful of herbal poultices—comfrey for bruising, lavender for rest. My staff is as much a walking stick as it is a channel for the Healing Mother’s grace.\"\n\"I cherish the first light of dawn spilling through the chapel windows, the feel of warm bread shared among friends, the sound of rain tapping against the cloister roof. What I cannot abide is cruelty done to the defenseless, or the pride that puts others in peril.\"\nShe exhales softly, fingers lacing over her knees. \"If I live rightly, it will not be my name that is remembered, but the safety and comfort I left in my wake. That, I think, would please Her most.\"\n\n[Starting Inventory- Blue and white priestess robes, holy symbol of Althura, A shepard's staff, a Healer's Kit, long white tunic, chemise, small clothes.]\n\n[Starting Spells- *Cantrips* (2% mana cost), Guidance-aids a skill a small degree, Mend-repairs a small area of an object you touch, Resistance- Provides a small defense against the next magical attack. *Low Level Spells* (10% mana cost) Bless-bonus to attacks and defense against spells, Cure Wounds- Heals 10% HP on touch, Sanctuary- Target can't be attacked for a short time as long as it doesn't take hostile action. Enhance Ability- Only pick one; Strength or Dexterity or Constitution or Intelligence or Wisdom or Charisma, Aid- Absorb next 10% HP damage on target, Hold Person- paralyzes one non-monster. *Medium Level Spells* (15% mana cost) Lesser Restoration- Remove one Disease or Negative Condition , Protection from Energy- Pick one; Fire or Cold or Electricity or Acid, Create Food and Drink- Enough for 15 people to eat and drink over a day, Banishment- Creature is sent to another plane, Demons and Devils can't come back, Death Ward- Protects from negative energy, ability drain, and instant death effects. **High Level Spells** (30% mana cost) Mass Cure Wounds- Heals whole party 10% HP, Flame strike- a 10ft diameter cylinder of Holy Fire damages everyone inside for major damage, Heal- Heals one person 70% hp and blindness/deafness and diseases on touch.] ",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -582,12 +573,7 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 11,
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
-            }
+            "displayIndex": 11
         },
         "12": {
             "uid": 12,
@@ -784,7 +770,7 @@
             "key": [],
             "keysecondary": [],
             "comment": "The Dungeon of Yargxag",
-            "content": "50 levels. Each one beneath the last. Created by a mad Archmage, this legendary dungeon is rumored to hold fabulous wealth to those who make it to it's final depths. It repopulates empty levels with monsters and treasure after two days making back tracking difficult. Each level begins with a safe room.",
+            "content": "50 levels. Each one beneath the last. Created by a mad Archmage, this legendary dungeon is rumored to hold fabulous wealth to those who make it to it's final depths. It repopulates empty levels with monsters and treasure after two days making back tracking difficult. Each level ends in a safe room.",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -2586,11 +2572,11 @@
             "uid": 53,
             "key": [
                 "D5",
-                "Feeling Rusty Boys"
+                "Feeling Rusty Boys?"
             ],
             "keysecondary": [],
             "comment": "",
-            "content": "Title: Feeling Rusty Boys\nEnemies: Rust monsters\nBoss: Treasure room full of Mimics. 15 Mimics in total hide amongst the treasure in this room.\nEnvironment: An old dwarven mine filled with rust monsters nibbling on the depleted veins throughout. At the end of the mine is a stone vault. The door is very large and requires a lever to open it easily, unfortunately it has been eaten by rust monsters. A new handle could be fashioned, or a few strong people could still open it. Inside is a treasure room and the exit. Opening the door is likely to attract the rest of the rust monsters on the floor.\nTreasure: 1,933 copper coins, 798 silver coins, 210 gold coins. All in various chests or scattered on the floor surrounded by mimics.\nTraps: A few glyphs of warding still function, but they ignore the rust monsters.\nNotes: There are a lot of Rust Monsters on this floor.",
+            "content": "Title: Feeling Rusty Boys?\nEnemies: Rust monsters\nBoss: Treasure room full of Mimics. 15 Mimics in total hide amongst the treasure in this room.\nEnvironment: An old dwarven mine filled with rust monsters nibbling on the depleted veins throughout. At the end of the mine is a stone vault. The door is very large and requires a lever to open it easily, unfortunately it has been eaten by rust monsters. A new handle could be fashioned, or a few strong people could still open it. Inside is a treasure room and the exit. Opening the door is likely to attract the rest of the rust monsters on the floor.\nTreasure: 1,933 copper coins, 798 silver coins, 210 gold coins. All in various chests or scattered on the floor surrounded by mimics.\nTraps: A few glyphs of warding still function, but they ignore the rust monsters.\nNotes: There are a lot of Rust Monsters on this floor.",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -4089,7 +4075,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 83
+            "displayIndex": 83,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "84": {
             "uid": 84,
@@ -5868,7 +5859,7 @@
             "selective": true,
             "selectiveLogic": 0,
             "addMemo": true,
-            "order": 100,
+            "order": 101,
             "position": 4,
             "disable": false,
             "excludeRecursion": false,
@@ -6281,6 +6272,52 @@
             "delay": 0,
             "triggers": [],
             "displayIndex": 56,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
+        },
+        "129": {
+            "uid": 129,
+            "key": [],
+            "keysecondary": [],
+            "comment": "TRACKER",
+            "content": "At the end of each message, provide the current Dungeon Level number, The title of the level, the current members of your party and their HP and MP percentages, and {{user}} inventory. Use the following format:\n___\n(Dungeon Level: x [Insert Level Title Here])\n(Party HP/MP: {{user}} 50%/NA  Member 1 40%/20%, Member 2 87%/100%)\n(Inventory: x, y, z)\n___\n",
+            "constant": true,
+            "vectorized": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": false,
+            "preventRecursion": false,
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false,
+            "delayUntilRecursion": false,
+            "probability": 100,
+            "useProbability": true,
+            "depth": 4,
+            "group": "",
+            "groupOverride": false,
+            "groupWeight": 100,
+            "scanDepth": null,
+            "caseSensitive": null,
+            "matchWholeWords": null,
+            "useGroupScoring": null,
+            "automationId": "",
+            "role": null,
+            "sticky": 0,
+            "cooldown": 0,
+            "delay": 0,
+            "triggers": [],
+            "displayIndex": 129,
             "characterFilter": {
                 "isExclude": false,
                 "names": [],
