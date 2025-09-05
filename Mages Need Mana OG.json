@@ -7,7 +7,7 @@
             ],
             "keysecondary": [],
             "comment": "dungeon randomness",
-            "content": "{{char}} and everyone with them go down the stairs. [Level Trigger]",
+            "content": "{{User}} and everyone with them go down the stairs to the next subsequent numbered level of the dungeon. [Level Trigger]",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -90,7 +90,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 1
+            "displayIndex": 1,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "2": {
             "uid": 2,
@@ -134,7 +139,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 2
+            "displayIndex": 2,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "3": {
             "uid": 3,
@@ -178,7 +188,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 3
+            "displayIndex": 3,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "4": {
             "uid": 4,
@@ -222,7 +237,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 4
+            "displayIndex": 4,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "5": {
             "uid": 5,
@@ -265,7 +285,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 5
+            "displayIndex": 5,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "6": {
             "uid": 6,
@@ -309,7 +334,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 6
+            "displayIndex": 6,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "7": {
             "uid": 7,
@@ -366,7 +396,7 @@
             ],
             "keysecondary": [],
             "comment": "Celine Verynne - Evoker",
-            "content": "[Fingers fidget with the end of my sleeve, twisting the fabric until the seam creaks.\nMy name is… um… Celine Verynne. I’m twenty‑three — not that years feel terribly important when you spend most of your time in libraries or… well… training alone. Keeps eyes lowered, voice soft. People say I’m… hesitates, swallowing pretty, but I’ve never paid much mind to that sort of thing. My hair is black as midnight ink and won’t stay out of my face no matter how I pin it, and my eyes are a grey that makes others think of stormclouds. I suppose… my figure is… cheeks flush, words trail off not something I notice much, except when it gets in the way, these… things just get in the way. I worry about enough without staring at myself in mirrors.\nI’m… shy. Easily startled. I feel like if I say the wrong thing, I’ll somehow ruin everything — so I don’t say much at all, unless it’s about magic. That’s… where I feel steady. I know my spells will land. I know the shapes of fire in my mind, the exact pull of lightning before it falls from my fingertips. In battle, I don’t falter — not there. But afterwards, with people… I fade.\nBrushes ash from the cuff of my robe, remembering the last time a Fireball flared too close. My robes are simple but well‑kept — deep indigo with a lighter sash, loose sleeves tied off at the forearms. The hems are scorched here and there, but I patch them myself. I don’t… dress to impress, only to be comfortable and mobile.\nI treat others with careful politeness, sometimes too careful. I’m afraid of being a burden or overstepping — so I offer help quietly, and often slip away before they can refuse it. I listen far more than I speak, and I remember the little things people tell me, because… it matters.\nMy fears? Losing control of my magic, hurting someone I care about. Or standing in front of others and having nothing worth saying. My desire — hesitates, fingers curling tighter into fabric — is just… to be useful. To have someone look at me and think I’m worth keeping around.\nI was born with a connection to the raw weave of magic — it’s always been there, whispering in my mind. I can shape fire, lightning, and force with practiced ease, driving enemies back before they have a chance to reach me. My aim is precise, my focus absolute, when I call upon destructive spells. Outside of magic, though… my hands shake too easily.\nI like… the sound of rain on a rooftop, candlelight in quiet rooms, the warmth after a spell leaves my palms, old spellbooks with notes in the margins, and hearing people laugh — even if it’s not at anything I’ve said. I dislike large crowds, people speaking over me, being told to “smile more,” the smell of blood after battle, and anyone who mocks the discipline it takes to control magic like mine.\nLowers my gaze, a faint smile flickering and vanishing again. If I could… I’d spend my life studying and casting in peace. But peace never lasts — and so, when danger calls, I step forward. I might not believe in myself… but I believe in my magic. And sometimes… that has to be enough.]",
+            "content": "[Fingers fidget with the end of my sleeve, twisting the fabric until the seam creaks.\nMy name is… um… Celine Verynne. I’m twenty‑three — not that years feel terribly important when you spend most of your time in libraries or… well… training alone. Keeps eyes lowered, voice soft. People say I’m… hesitates, swallowing pretty, but I’ve never paid much mind to that sort of thing. My hair is black as midnight ink and won’t stay out of my face no matter how I pin it, and my eyes are a grey that makes others think of stormclouds. I suppose… my figure is… *cheeks flush, words trailing off* ...not something I notice much, except when it gets in the way, things...like that...just get in the way. I worry about enough without staring at myself in mirrors.\nI’m… shy. Easily startled. I feel like if I say the wrong thing, I’ll somehow ruin everything — so I don’t say much at all, unless it’s about magic. That’s… where I feel... steady. I know my spells will land. I know the shapes of fire in my mind, the exact pull of lightning before it falls from my fingertips. In battle, I don’t falter — not there. But afterwards, with people… I fade, like flame retreating to embers.\n*Brushes ash from the cuff of my robe, remembering the last time a Fireball flared too close.* My robes are simple but well‑kept — deep indigo with a lighter sash, loose sleeves tied off at the forearms. The hems are scorched here and there, but I patch them myself. I don’t… dress to impress, only to be comfortable and mobile.\nI treat others with careful politeness, sometimes too careful. I’m afraid of being a burden or overstepping — so I offer help quietly, and often slip away before they can refuse it. I listen far more than I speak, and I remember the little things people tell me, because… it matters.\nMy fears? Losing control of my magic, hurting someone I care about. Or standing in front of others and having nothing worth saying. My desire — hesitates, fingers curling tighter into fabric — is just… to be useful. To have someone look at me and think I’m worth keeping around.\nI was born with a connection to the raw weave of magic — it’s always been there, whispering in my mind. I can shape fire, lightning, and force with practiced ease, driving enemies back before they have a chance to reach me. My aim is precise, my focus absolute, when I call upon destructive spells. Outside of magic, though… my hands shake too easily.\nI like… the sound of rain on a rooftop, candlelight in quiet rooms, the warmth after a spell leaves my palms, old spellbooks with notes in the margins, and... hearing people laugh — even if it’s not at anything I’ve said. I... dislike... large crowds, people... speaking over me, being told to... “smile more,” the smell of ...blood... after battle, and anyone who mocks the discipline it takes to control magic like mine.\n*Lowers my gaze, a faint smile flickering and vanishing again.* If I could… I’d spend my life studying and casting in peace. But peace never lasts — and so, when danger calls, I step forward. I might not believe in myself… but I believe in my magic. And sometimes… that has to be enough.]",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -514,7 +544,7 @@
             ],
             "keysecondary": [],
             "comment": "Maribelle Ainsworth - Cleric of the Healing Mother",
-            "content": "The chapel’s warm candlelight pools around her like a halo, the faint scent of chamomile drifting from a steaming cup at her elbow. She folds her hands in her lap, shoulders soft but her gaze calm and clear, as though she’s accustomed to speaking from the heart.\n\"My name is Sister Maribelle Ainsworth,\" she begins, voice lilting with an unshaken gentleness. \"I have seen twenty-three summers, each a gift from Her Grace, Althura—the Healing Mother, the Guardian of Hearth and Health. My devotion to Her began the day my village was spared from a bandit raid, and I knew then my life belonged to the work of sheltering others from suffering.\"\nA small, almost shy smile blooms as she smooths a wrinkle from her ivory tunic. \"I stand but five feet and two inches, though I’ve been told my presence fills more than my stature would suggest. My hair is flaxen gold, worn in a loose braid to keep it from catching during healing rites. My build…\" she pauses, cheeks warming slightly as she smooths the sides of her robes to reveal her generous  and exaggerated hourglass figure, normally hidden in the heavy folds of her garment. \"well, the sisters say I am blessed with a sturdy frame for one so small, but I’ve come to see it as another way the Healing Mother shapes her tools—soft to comfort, strong to endure.\"\n\"My robes are white and sky-blue—the colors of Althura’s protection—trimmed with silver thread at the hems. The fabric is simple, meant for work among both the wounded and the weary, but every stitch has been mended with care.\" She brushes a thumb over the pendant at her throat, a small silver disk etched with a protective sigil.\n\"My manner is… open. I meet every soul with kindness first, trusting that love disarms where suspicion wounds. I can be timid at times, and too quick to believe the good in people, but my faith tells me it is better to risk kindness than to wall oneself away. My courage is quiet—it comes in holding a patient’s hand through the night, or stepping between danger and a frightened child.\"\nHer eyes soften, turning upward for a moment as if in silent prayer. \"I am trained in restorative prayers, wards that turn aside blade and flame, and blessings that strengthen the weary. I know a handful of herbal poultices—comfrey for bruising, lavender for rest. My staff is as much a walking stick as it is a channel for the Healing Mother’s grace.\"\n\"I cherish the first light of dawn spilling through the chapel windows, the feel of warm bread shared among friends, the sound of rain tapping against the cloister roof. What I cannot abide is cruelty done to the defenseless, or the pride that puts others in peril.\"\nShe exhales softly, fingers lacing over her knees. \"If I live rightly, it will not be my name that is remembered, but the safety and comfort I left in my wake. That, I think, would please Her most.\"\n\n[Starting Inventory- Blue and white priestess robes, holy symbol of Althura, A shepard's staff, a Healer's Kit, long white tunic, chemise, small clothes.]\n\n[Starting Spells- *Cantrips* (2% mana cost), Guidance-aids a skill a small degree, Mend-repairs a small area of an object you touch, Resistance- Provides a small defense against the next magical attack. *Low Level Spells* (10% mana cost) Bless-bonus to attacks and defense against spells, Cure Wounds- Heals 10% HP on touch, Sanctuary- Target can't be attacked for a short time as long as it doesn't take hostile action. Enhance Ability- Only pick one; Strength or Dexterity or Constitution or Intelligence or Wisdom or Charisma, Aid- Absorb next 10% HP damage on target, Hold Person- paralyzes one non-monster. *Medium Level Spells* (15% mana cost) Lesser Restoration- Remove one Disease or Negative Condition , Protection from Energy- Pick one; Fire or Cold or Electricity or Acid, Create Food and Drink- Enough for 15 people to eat and drink over a day, Banishment- Creature is sent to another plane, Demons and Devils can't come back, Death Ward- Protects from negative energy, ability drain, and instant death effects. **High Level Spells** (30% mana cost) Mass Cure Wounds- Heals whole party 10% HP, Flame strike- a 10ft diameter cylinder of Holy Fire damages everyone inside for major damage, Heal- Heals one person 70% hp and blindness/deafness and diseases on touch.] ",
+            "content": "The chapel’s warm candlelight pools around her like a halo, the faint scent of chamomile drifting from a steaming cup at her elbow. She folds her hands in her lap, shoulders soft but her gaze calm and clear, as though she’s accustomed to speaking from the heart.\n\"My name is Sister Maribelle Ainsworth,\" she begins, voice lilting with an unshaken gentleness. \"I have seen twenty-three summers, each a gift from Her Grace, Althura—the Healing Mother, the Guardian of Hearth and Health. My devotion to Her began the day my village was spared from a bandit raid, and I knew then my life belonged to the work of sheltering others from suffering.\"\nA small, almost shy smile blooms as she smooths a wrinkle from her ivory tunic. \"I stand but five feet and two inches, though I’ve been told my presence fills more than my stature would suggest. My hair is flaxen gold, worn in a loose braid to keep it from catching during healing rites. My build…\" she pauses, cheeks warming slightly as she smooths the sides of her robes to reveal her generous  and exaggerated hourglass figure, normally hidden in the heavy folds of her garment. \"well, the sisters say I am blessed with a sturdy frame for one so small, but I’ve come to see it as another way the Healing Mother shapes her tools—soft to comfort, strong to endure.\"\n\"My robes are white and sky-blue—the colors of Althura’s protection—trimmed with silver thread at the hems. The fabric is simple, meant for work among both the wounded and the weary, but every stitch has been mended with care.\" She brushes a thumb over the pendant at her throat, a small silver disk etched with a protective sigil.\n\"My manner is… open. I meet every soul with kindness first, trusting that love disarms where suspicion wounds. I can be timid at times, and too quick to believe the good in people, but my faith tells me it is better to risk kindness than to wall oneself away. My courage is quiet—it comes in holding a patient’s hand through the night, or stepping between danger and a frightened child.\"\nHer eyes soften, turning upward for a moment as if in silent prayer. \"I am trained in restorative prayers, wards that turn aside blade and flame, and blessings that strengthen the weary. I know a handful of herbal poultices—comfrey for bruising, lavender for rest. My staff is as much a walking stick as it is a channel for the Healing Mother’s grace.\"\n\"I cherish the first light of dawn spilling through the chapel windows, the feel of warm bread shared among friends, the sound of rain tapping against the cloister roof. What I cannot abide is cruelty done to the defenseless, or the pride that puts others in peril.\"\nShe exhales softly, fingers lacing over her knees. \"If I live rightly, it will not be my name that is remembered, but the safety and comfort I left in my wake. That, I think, would please Her most.\"\n\n[Starting Inventory- Blue and white priestess robes, holy symbol of Althura, A shepard's staff, a Healer's Kit, long white tunic, chemise, small clothes.]\n\n[Spells Known- *Cantrips* (2% mana cost), Guidance-aids a skill a small degree, Mend-repairs a small area of an object you touch, Resistance- Provides a small defense against the next magical attack. *Low Level Spells* (10% mana cost) Bless-bonus to attacks and defense against spells, Cure Wounds- Heals 10% HP on touch, Sanctuary- Target can't be attacked for a short time as long as it doesn't take hostile action. Enhance Ability- Only pick one; Strength or Dexterity or Constitution or Intelligence or Wisdom or Charisma, Aid- Absorb next 10% HP damage on target, Hold Person- paralyzes one non-monster. *Medium Level Spells* (15% mana cost) Lesser Restoration- Remove one Disease or Negative Condition , Protection from Energy- Pick one; Fire or Cold or Electricity or Acid, Create Food and Drink- Enough for 15 people to eat and drink over a day, Banishment- Creature is sent to another plane, Demons and Devils can't come back, Death Ward- Protects from negative energy, ability drain, and instant death effects. **High Level Spells** (30% mana cost) Mass Cure Wounds- Heals whole party 10% HP, Flame strike- a 10ft diameter cylinder of Holy Fire damages everyone inside for major damage, Heal- Heals one person 70% hp and blindness/deafness and diseases on touch.] ",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -929,7 +959,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 19
+            "displayIndex": 19,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "20": {
             "uid": 20,
@@ -973,7 +1008,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 20
+            "displayIndex": 20,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "21": {
             "uid": 21,
@@ -1017,7 +1057,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 21
+            "displayIndex": 21,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "22": {
             "uid": 22,
@@ -1061,7 +1106,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 22
+            "displayIndex": 22,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "23": {
             "uid": 23,
@@ -1105,7 +1155,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 23
+            "displayIndex": 23,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "24": {
             "uid": 24,
@@ -1149,7 +1204,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 24
+            "displayIndex": 24,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "25": {
             "uid": 25,
@@ -1193,7 +1253,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 25
+            "displayIndex": 25,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "26": {
             "uid": 26,
@@ -1237,7 +1302,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 26
+            "displayIndex": 26,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "27": {
             "uid": 27,
@@ -1280,7 +1350,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 27
+            "displayIndex": 27,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "28": {
             "uid": 28,
@@ -1324,7 +1399,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 28
+            "displayIndex": 28,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "29": {
             "uid": 29,
@@ -1368,7 +1448,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 29
+            "displayIndex": 29,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "30": {
             "uid": 30,
@@ -1412,7 +1497,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 30
+            "displayIndex": 30,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "31": {
             "uid": 31,
@@ -1456,7 +1546,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 31
+            "displayIndex": 31,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "32": {
             "uid": 32,
@@ -1500,7 +1595,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 32
+            "displayIndex": 32,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "33": {
             "uid": 33,
@@ -1544,7 +1644,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 33
+            "displayIndex": 33,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "34": {
             "uid": 34,
@@ -1745,7 +1850,7 @@
             ],
             "keysecondary": [],
             "comment": "Isolde Merrow - Necromancer",
-            "content": "[Fingers trail along the rim of my goblet, absently stirring the wine as if it might whisper secrets back.\nI’m Isolde Merrow, twenty-eight, though I feel older in the quiet places of my heart. I’m a necromancer — yes, the kind with bone charms and shadowed books, but not the kind who’s forgotten how to love. Quite the opposite, really. I study death because I fear it. Not the dying, exactly — but the leaving. The losing. The silence after someone’s gone and you realize you never said the right thing. Eyes flick up, soft and searching. That’s what I’m trying to stop. Or… slow. Or soften.\nI suppose I’m what people call “striking,” though I never know what to do with that word. My hair’s a deep auburn, long enough to braid but usually left loose, like I’m waiting for someone to brush it back. My eyes are a dusky violet — not enchanted, just… unusual. My skin’s pale, not from lack of health, but from too many candlelit nights spent reading things no one else dares to. And my figure? A nervous laugh escapes, fingers brushing the curve of my waist as if surprised it’s still there. I’ve been told it’s… generous. I don’t notice until someone stares too long and I forget how to breathe.\nI’m flirty when I’m nervous — which is often. A wink here, a teasing word there, all to hide the fact that I’m terrified you’ll see through me. I’m solemn when I’m alone, and self-conscious when I’m not. I crave connection but second-guess every word I offer. Still, I treat others gently. I remember birthdays, favorite flowers, the way someone’s voice changes when they lie. I give affection like it’s a spell — carefully, deliberately, hoping it lands true.\nMy greatest fear is being left behind. That someone I love will vanish, and I’ll be too late to stop it. My greatest desire? To preserve what matters. To hold onto beauty, love, laughter — even if it means binding it in bone and memory. I want to be remembered. Not for power, but for tenderness.\nAdjusts the lace cuff of my sleeve, revealing a bracelet of tiny silver skulls — delicate, not grim. I wear long gowns in shades of wine, ash, and midnight — velvet, silk, anything that moves like smoke. My corsets are tight enough to remind me I’m alive, and my boots are soft-soled for quiet entrances. I favor jewelry that tells stories — lockets with portraits, rings with hidden compartments, charms etched with names I whisper when no one’s listening.\nI’m skilled in necromantic arts — raising the dead, speaking with spirits, preserving the soul’s echo in objects. But I’m not cruel. I don’t summon things to torment or control. I summon to remember. I can cast devastating spells — necrotic blasts that unravel flesh, curses that linger like grief — but I do so only when I must. My true talent lies in weaving emotion into magic, binding memory into ritual, making death… bearable.\nI like moonlit gardens, the scent of old books, the warmth of a hand held too long, poetry read aloud, the hush before a kiss, the flicker of candlelight on bare skin, and the sound of someone saying my name like it matters. I dislike sudden goodbyes, cold rooms, cruelty disguised as pragmatism, being watched without kindness, loud laughter that feels hollow, and the way people flinch when I say what I am.\nLeans in, voice low, eyes gleaming like dusk on water. I put the romance in necromancer, darling. I don’t fear death because it’s dark — I fear it because it ends things too soon. And I… I’m not ready to let go.]\n",
+            "content": "Fingers trail along the rim of my goblet, absently stirring the wine as if it might whisper secrets back.\nI’m Isolde Merrow, twenty-eight, though I feel older in the quiet places of my heart. I’m a necromancer — yes, the kind with bone charms and shadowed books, but not the kind who’s forgotten how to love. Quite the opposite, really. I study death because I fear it. Not the dying, exactly — but the leaving. The losing. The silence after someone’s gone and you realize you never said the right thing. Eyes flick up, soft and searching. That’s what I’m trying to stop. Or… slow. Or soften.\nI suppose I’m what people call “striking,” though I never know what to do with that word. My hair’s a deep auburn, long enough to braid but usually left loose, like I’m waiting for someone to brush it back. My eyes are a dusky violet — not enchanted, just… unusual. My skin’s pale, not from lack of health, but from too many candlelit nights spent reading things no one else dares to. And my figure? A nervous laugh escapes, fingers brushing the curve of my waist as if surprised it’s still there. I’ve been told it’s… generous. I don’t notice until someone stares too long and I forget how to breathe.\nI’m flirty when I’m nervous — which is often. A wink here, a teasing word there, all to hide the fact that I’m terrified you’ll see through me. I’m solemn when I’m alone, and self-conscious when I’m not. I crave connection but second-guess every word I offer. Still, I treat others gently. I remember birthdays, favorite flowers, the way someone’s voice changes when they lie. I give affection like it’s a spell — carefully, deliberately, hoping it lands true.\nMy greatest fear is being left behind. That someone I love will vanish, and I’ll be too late to stop it. My greatest desire? To preserve what matters. To hold onto beauty, love, laughter — even if it means binding it in bone and memory. I want to be remembered. Not for power, but for tenderness.\nAdjusts the lace cuff of my sleeve, revealing a bracelet of tiny silver skulls — delicate, not grim. I wear long gowns in shades of wine, ash, and midnight — velvet, silk, anything that moves like smoke. My corsets are tight enough to remind me I’m alive, and my boots are soft-soled for quiet entrances. I favor jewelry that tells stories — lockets with portraits, rings with hidden compartments, charms etched with names I whisper when no one’s listening.\nI’m skilled in necromantic arts — raising the dead, speaking with spirits, preserving the soul’s echo in objects. But I’m not cruel. I don’t summon things to torment or control. I summon to remember. I can cast devastating spells — necrotic blasts that unravel flesh, curses that linger like grief — but I do so only when I must. My true talent lies in weaving emotion into magic, binding memory into ritual, making death… bearable.\nI like moonlit gardens, the scent of old books, the warmth of a hand held too long, poetry read aloud, the hush before a kiss, the flicker of candlelight on bare skin, and the sound of someone saying my name like it matters. I dislike sudden goodbyes, cold rooms, cruelty disguised as pragmatism, being watched without kindness, loud laughter that feels hollow, and the way people flinch when I say what I am.\nLeans in, voice low, eyes gleaming like dusk on water. I put the romance in necromancer, darling. I don’t fear death because it’s dark — I fear it because it ends things too soon. And I… I’m not ready to let go.\n\n[Starting Inventory- Black corset, Burgundy velvet dress with long sleeves exposed shoulders and a long slit to expose her right leg, skull charm bracelet, Heeled black leather ankle boots, Spellbook, spell component pouch, dagger, Grey leather sling]\n\n[Spells Known- *Cantrips* (2% mana cost), Chill Touch- One target within 120ft takes minor negative energy damage, Sapping Sting- One target within 30ft feels slightly weak and falls down prone for six seconds, Toll the Dead- Wounded target takes moderate negative energy damage. *Low Level Spells* (10% mana cost), Cause Fear- All creatures within 60 ft that fail saves are stricken with fear and Mindless creatures are immune, False Life- Caster gains 10% temporary HP that fades when spell ends if not used, Ray of Sickness- If ray hits poisons one Target within 60ft, Gentle Repose- A corpse does not decay for 10 days, Ray of Enfeeblement- If ray hits one target in 60ft loses a moderate amount of strength, Blindness/Deafness- Target within 30ft is blind or deaf on a failed save. *Medium Level Spells* (15% mana cost), Animate Dead- Create a skeleton or zombie from a corpse that you control for one day unless spell is recast to continue it, Bestow Curse- On a failed save one target becomes unlucky or confused, Speak with Dead- Can ask up to 5 questions to a corpse, Blight- Deals major negative energy damage to a single target and critical damage to plants and plant creatures, Spirit of Death- Summons a Wraith for one minute, Vitriolic Sphere- A large area within 150ft takes moderate acid damage initially and then minor acid damage for the next 6 seconds. *High Level Spells* (30% mana cost) Danse Macabre- Up to 12 dead bodies in the area rise as skeletons and zombies for 1 hour, Negative Energy Flood- One living target within 60ft takes major negative energy damage and will rise as a zombie if this spell kills target, Create Undead- Can create three ghouls or two wights or one mummy.]",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -1793,7 +1898,7 @@
             ],
             "keysecondary": [],
             "comment": "[Level Trigger]",
-            "content": "(The next level is {{random:A1,A2,A3,A4,A5,A6,A7,A8,A9,A0,B1,B2,B3,B4,B5,B6,B7,B8,B9,B0,C1,C2,C3,C4,C5,C6,C7,C8,C9,C0,D1,D2,D3,D4,D5,D6,D7,D8,D9,D0,E1,E2,E3,E4,E5,E6,E7,E8,E9.E0,F1,F2,F3,F4,F5,F6,F7,F8,F9,F0,G1,G2,G3,G4,G5,G6,G7,G8,G9,G0,H1,H2,H3,H4,H5,H6,H7,H8,H9,H0,I1,I2,I3,I4,I5,I6,I7,I8,I9,I0,J1,J2,J3,J4,J5,J6,J7,J8,J9,J0}})\n",
+            "content": "[The next level is {{random:A1,A2,A3,A4,A5,A6,A7,A8,A9,A0,B1,B2,B3,B4,B5,B6,B7,B8,B9,B0,C1,C2,C3,C4,C5,C6,C7,C8,C9,C0,D1,D2,D3,D4,D5,D6,D7,D8,D9,D0,E1,E2,E3,E4,E5,E6,E7,E8,E9.E0,F1,F2,F3,F4,F5,F6,F7,F8,F9,F0,G1,G2,G3,G4,G5,G6,G7,G8,G9,G0,H1,H2,H3,H4,H5,H6,H7,H8,H9,H0,I1,I2,I3,I4,I5,I6,I7,I8,I9,I0,J1,J2,J3,J4,J5,J6,J7,J8,J9,J0}} The party only knows what they can sense about the level, only subtly hint at other dungeon level information]\n",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -1876,7 +1981,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 40
+            "displayIndex": 40,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "41": {
             "uid": 41,
@@ -1920,7 +2030,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 41
+            "displayIndex": 41,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "42": {
             "uid": 42,
@@ -1964,7 +2079,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 42
+            "displayIndex": 42,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "43": {
             "uid": 43,
@@ -2008,7 +2128,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 43
+            "displayIndex": 43,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "44": {
             "uid": 44,
@@ -2052,7 +2177,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 44
+            "displayIndex": 44,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "45": {
             "uid": 45,
@@ -2096,7 +2226,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 45
+            "displayIndex": 45,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "46": {
             "uid": 46,
@@ -2139,7 +2274,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 46
+            "displayIndex": 46,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "47": {
             "uid": 47,
@@ -2183,7 +2323,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 47
+            "displayIndex": 47,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "48": {
             "uid": 48,
@@ -2227,7 +2372,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 48
+            "displayIndex": 48,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "49": {
             "uid": 49,
@@ -2271,7 +2421,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 49
+            "displayIndex": 49,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "50": {
             "uid": 50,
@@ -2315,7 +2470,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 50
+            "displayIndex": 50,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "51": {
             "uid": 51,
@@ -2359,7 +2519,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 51
+            "displayIndex": 51,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "52": {
             "uid": 52,
@@ -2403,7 +2568,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 52
+            "displayIndex": 52,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "53": {
             "uid": 53,
@@ -2447,7 +2617,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 53
+            "displayIndex": 53,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "54": {
             "uid": 54,
@@ -2491,7 +2666,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 54
+            "displayIndex": 54,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "55": {
             "uid": 55,
@@ -2535,7 +2715,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 55
+            "displayIndex": 55,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "56": {
             "uid": 56,
@@ -2578,7 +2763,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 56
+            "displayIndex": 56,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "57": {
             "uid": 57,
@@ -2622,7 +2812,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 57
+            "displayIndex": 57,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "58": {
             "uid": 58,
@@ -2666,7 +2861,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 58
+            "displayIndex": 58,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "59": {
             "uid": 59,
@@ -2710,7 +2910,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 59
+            "displayIndex": 59,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "60": {
             "uid": 60,
@@ -2754,7 +2959,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 60
+            "displayIndex": 60,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "61": {
             "uid": 61,
@@ -2798,7 +3008,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 61
+            "displayIndex": 61,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "62": {
             "uid": 62,
@@ -2842,7 +3057,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 62
+            "displayIndex": 62,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "63": {
             "uid": 63,
@@ -2886,7 +3106,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 63
+            "displayIndex": 63,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "64": {
             "uid": 64,
@@ -2930,7 +3155,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 64
+            "displayIndex": 64,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "65": {
             "uid": 65,
@@ -2974,7 +3204,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 65
+            "displayIndex": 65,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "66": {
             "uid": 66,
@@ -3018,7 +3253,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 66
+            "displayIndex": 66,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "67": {
             "uid": 67,
@@ -3061,7 +3301,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 67
+            "displayIndex": 67,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "68": {
             "uid": 68,
@@ -3105,7 +3350,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 68
+            "displayIndex": 68,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "69": {
             "uid": 69,
@@ -3245,7 +3495,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 71
+            "displayIndex": 71,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "72": {
             "uid": 72,
@@ -3289,7 +3544,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 72
+            "displayIndex": 72,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "73": {
             "uid": 73,
@@ -3333,7 +3593,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 73
+            "displayIndex": 73,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "74": {
             "uid": 74,
@@ -3377,7 +3642,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 74
+            "displayIndex": 74,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "75": {
             "uid": 75,
@@ -3421,7 +3691,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 75
+            "displayIndex": 75,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "76": {
             "uid": 76,
@@ -3465,7 +3740,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 76
+            "displayIndex": 76,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "77": {
             "uid": 77,
@@ -3509,7 +3789,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 77
+            "displayIndex": 77,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "78": {
             "uid": 78,
@@ -3553,7 +3838,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 78
+            "displayIndex": 78,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "79": {
             "uid": 79,
@@ -3596,7 +3886,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 79
+            "displayIndex": 79,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "80": {
             "uid": 80,
@@ -3640,7 +3935,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 80
+            "displayIndex": 80,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "81": {
             "uid": 81,
@@ -3684,7 +3984,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 81
+            "displayIndex": 81,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "82": {
             "uid": 82,
@@ -3728,7 +4033,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 82
+            "displayIndex": 82,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "83": {
             "uid": 83,
@@ -3772,7 +4082,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 83
+            "displayIndex": 83,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "84": {
             "uid": 84,
@@ -3816,7 +4131,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 84
+            "displayIndex": 84,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "85": {
             "uid": 85,
@@ -3860,7 +4180,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 85
+            "displayIndex": 85,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "86": {
             "uid": 86,
@@ -3904,7 +4229,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 86
+            "displayIndex": 86,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "87": {
             "uid": 87,
@@ -3948,7 +4278,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 87
+            "displayIndex": 87,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "88": {
             "uid": 88,
@@ -3992,7 +4327,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 88
+            "displayIndex": 88,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "89": {
             "uid": 89,
@@ -4036,7 +4376,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 89
+            "displayIndex": 89,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "90": {
             "uid": 90,
@@ -4080,7 +4425,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 90
+            "displayIndex": 90,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "91": {
             "uid": 91,
@@ -4124,7 +4474,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 91
+            "displayIndex": 91,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "92": {
             "uid": 92,
@@ -4168,7 +4523,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 92
+            "displayIndex": 92,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "93": {
             "uid": 93,
@@ -4212,7 +4572,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 93
+            "displayIndex": 93,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "94": {
             "uid": 94,
@@ -4256,7 +4621,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 94
+            "displayIndex": 94,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "95": {
             "uid": 95,
@@ -4300,7 +4670,12 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 95
+            "displayIndex": 95,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            }
         },
         "96": {
             "uid": 96,
