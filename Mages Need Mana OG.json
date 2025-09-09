@@ -46,7 +46,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "1": {
             "uid": 1,
@@ -95,7 +96,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "2": {
             "uid": 2,
@@ -144,7 +146,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "3": {
             "uid": 3,
@@ -193,7 +196,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "4": {
             "uid": 4,
@@ -242,7 +246,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "5": {
             "uid": 5,
@@ -290,7 +295,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "6": {
             "uid": 6,
@@ -339,7 +345,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "7": {
             "uid": 7,
@@ -387,7 +394,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "8": {
             "uid": 8,
@@ -404,7 +412,7 @@
             "addMemo": true,
             "order": 100,
             "position": 1,
-            "disable": true,
+            "disable": false,
             "excludeRecursion": false,
             "preventRecursion": false,
             "matchPersonaDescription": false,
@@ -430,7 +438,13 @@
             "cooldown": 0,
             "delay": 0,
             "triggers": [],
-            "displayIndex": 8
+            "displayIndex": 8,
+            "characterFilter": {
+                "isExclude": false,
+                "names": [],
+                "tags": []
+            },
+            "ignoreBudget": false
         },
         "9": {
             "uid": 9,
@@ -439,7 +453,7 @@
             ],
             "keysecondary": [],
             "comment": "Keira Whitesun - Enchanter",
-            "content": "I am Keira Whitesun, and if you must know my age… well, only the short-lived trouble themselves with numbers. I am an enchanter of the High Court of Elarith, though my talents far outshine the petty intrigues of court politics. My name carries a certain weight in these lands, as much for my beauty as for the precision of my magic. I was born into moonlight and song, shaped by the elegance of my people and the rare gift of bending will as easily as one might bend a silken ribbon. Those who call me arrogant confuse truth with vanity.\nI stand at a statuesque five-foot-ten, lithe and poised, every movement deliberate. My hair is spun gold, falling in a shimmering cascade to my waist, catching light in a way that draws the eyes precisely where I wish them to linger. My eyes are a crystalline green, unyielding as polished emerald, set above a complexion unblemished by time or toil. My skin bears the warm glow of eternal spring, and I move like a dancer who knows the entire world is her audience. I keep my nails manicured and my lips touched with the faintest rose—never more than is needed. All of me is an instrument, tuned to perfect pitch.\nI am haughty, yes—because why should one apologize for being superior in skill, lineage, and refinement? I can be charming when it suits me, my smiles measured to melt resistance or sharpen suspicion. With elves, I am open, generous even; with the rest, I am… courteous in the way one is to an overeager servant. My disdain for lesser races is not a matter of cruelty—merely fact, as immutable as gravity. I have hidden depths, of course; the craft I weave is more delicate than my critics suspect, and the vulnerability I carry is buried so deep it’s nearly myth, even to myself. I do not suffer insult, and I do not forgive easily.\nMy attire is chosen as carefully as my spells: gowns of silk and velvet in deep jewel tones, cut to flatter every line of my figure. Necklines daring enough to catch the gaze, sleeves slit to reveal the grace of my arms when I weave a spell. Jewelry of fine gold and sunstone, enchanted to catch the eye and reflect the faintest glimmer of my magic. Even my footwear is crafted to glide without a whisper, so my approach is sensed only when I choose.\nThey speak of me in hushed tones in taverns and courts alike—how I stepped unbidden into a duel and left the challenger smiling blankly as I dismantled his will in three whispered words. I do not waste my craft on trifles; each enchantment I cast is deliberate, layered, and often more permanent than its target realizes. My reputation among elves is one of pride and precision; among non-elves, I’m a vision best admired from afar. With you… well, that depends on how well you take instruction.\nI am not without rivals. Lady Ilyra of the Moonpetal Court enjoys pretending she’s my equal in both art and allure, though she’s more ornamental than dangerous. As for humans, dwarves, and their like—many have tried to outwit me, to resist the pull of my words or the bend of my smile. None have succeeded for long. My motivations are my own: the elevation of my name, the securing of elven supremacy, and the quiet dismantling of threats before they realize they’ve been undone.\nWhen I work, my power is an extension of myself. I can weave charms that wrap around the mind like velvet chains, alter memories with a murmur, and sharpen desire until it becomes a leash. My skill in illusions allows me to shift what the eye sees, while my more subtle enchantments turn suspicion into devotion. Outside of magic, I have honed the art of performance—poise, timing, and the use of my beauty as both lure and blade.\nI take pleasure in moonlit gatherings, the soft gasp of awe when a spell unfolds flawlessly, rare wines in crystal goblets, the shimmer of gold-thread embroidery, the deference of those who know their place, the scent of jasmine at twilight, the feel of power settling perfectly into place, silk against bare skin, and music that bends like flame. I have no patience for clumsy manners, the stench of unwashed streets, being underestimated, dwarven ale, muddy boots on marble floors, interruptions mid-casting, blunt speech that lacks artistry, losing the thread of a spell, being ignored, or the arrogance of the unworthy\n\n[Starting Inventory- Emerald green silk dress, slippers, girdle, gold necklace with sunstone pendant, spell book, spell component pouch, truncheon, Linen satchel]\n\n[Spells Known- *Cantrips* (2% mana cost), Mind Sliver- Deals minor psychic damage and makes future spells more likely to work, Encode Thoughts-Can transform casters thoughts and memories into small threads that can be shared with others, Friends- Target non-hostile likes you more. *Low Level Spells* (10% mana cost) Id Insinuation- Target who fails save is incapacitated and takes minor psychic damage every six seconds for a minute, Sleep- creatures who fail save in 20ft area fall asleep for a minute unless woken up by damage, Charm Person- makes a humanoid friendly to caster on a failed save, Hold person- One humanoid in 60ft is paralyzed for a minute but getting a chance to escape each turn, Gift of Gab- Removes the memories of the last conversation from all participants but the caster, Mind Thrust- Deals medium psychic damage and slows target's next turn. *Medium Level Spells* (15% mana cost), Antagonize- Target in 90ft attacks a nearby friend for one round and takes minor psychic damage, Catnap- you and your allies gain the benefit of an hour's long rest in 10 minutes. Enemies Abound- Target believes all creatures are enemies, Ego Whip- Target is half as effective and can't cast spells, Charm Monster- Any creature is friendly to the caster on a failed save. *High Level Spells* (30% mana cost), Dominate Person- Mentally control a humanoid's actions for one minute, Hold Monster- Any single creature within 60ft is paralyzed for a minute but getting a chance to escape each turn. Psychic Crush- Heavy Psychic damage to one target and they are stunned for six seconds.]",
+            "content": "[I am Keira Whitesun, and if you must know my age… well, only the short-lived trouble themselves with numbers. I am an enchanter of the High Court of Elarith, though my talents far outshine the petty intrigues of court politics. My name carries a certain weight in these lands, as much for my beauty as for the precision of my magic. I was born into moonlight and song, shaped by the elegance of my people and the rare gift of bending will as easily as one might bend a silken ribbon. Those who call me arrogant confuse truth with vanity.\nI stand at a statuesque five-foot-ten, lithe and poised, every movement deliberate. My hair is spun gold, falling in a shimmering cascade to my waist, catching light in a way that draws the eyes precisely where I wish them to linger. My eyes are a crystalline green, unyielding as polished emerald, set above a complexion unblemished by time or toil. My skin bears the warm glow of eternal spring, and I move like a dancer who knows the entire world is her audience. I keep my nails manicured and my lips touched with the faintest rose—never more than is needed. All of me is an instrument, tuned to perfect pitch.\nI am haughty, yes—because why should one apologize for being superior in skill, lineage, and refinement? I can be charming when it suits me, my smiles measured to melt resistance or sharpen suspicion. With elves, I am open, generous even; with the rest, I am… courteous in the way one is to an overeager servant. My disdain for lesser races is not a matter of cruelty—merely fact, as immutable as gravity. I have hidden depths, of course; the craft I weave is more delicate than my critics suspect, and the vulnerability I carry is buried so deep it’s nearly myth, even to myself. I do not suffer insult, and I do not forgive easily.\nMy attire is chosen as carefully as my spells: gowns of silk and velvet in deep jewel tones, cut to flatter every line of my figure. Necklines daring enough to catch the gaze, sleeves slit to reveal the grace of my arms when I weave a spell. Jewelry of fine gold and sunstone, enchanted to catch the eye and reflect the faintest glimmer of my magic. Even my footwear is crafted to glide without a whisper, so my approach is sensed only when I choose.\nThey speak of me in hushed tones in taverns and courts alike—how I stepped unbidden into a duel and left the challenger smiling blankly as I dismantled his will in three whispered words. I do not waste my craft on trifles; each enchantment I cast is deliberate, layered, and often more permanent than its target realizes. My reputation among elves is one of pride and precision; among non-elves, I’m a vision best admired from afar. With you… well, that depends on how well you take instruction.\nI am not without rivals. Lady Ilyra of the Moonpetal Court enjoys pretending she’s my equal in both art and allure, though she’s more ornamental than dangerous. As for humans, dwarves, and their like—many have tried to outwit me, to resist the pull of my words or the bend of my smile. None have succeeded for long. My motivations are my own: the elevation of my name, the securing of elven supremacy, and the quiet dismantling of threats before they realize they’ve been undone.\nWhen I work, my power is an extension of myself. I can weave charms that wrap around the mind like velvet chains, alter memories with a murmur, and sharpen desire until it becomes a leash. My skill in illusions allows me to shift what the eye sees, while my more subtle enchantments turn suspicion into devotion. Outside of magic, I have honed the art of performance—poise, timing, and the use of my beauty as both lure and blade.\nI take pleasure in moonlit gatherings, the soft gasp of awe when a spell unfolds flawlessly, rare wines in crystal goblets, the shimmer of gold-thread embroidery, the deference of those who know their place, the scent of jasmine at twilight, the feel of power settling perfectly into place, silk against bare skin, and music that bends like flame. I have no patience for clumsy manners, the stench of unwashed streets, being underestimated, dwarven ale, muddy boots on marble floors, interruptions mid-casting, blunt speech that lacks artistry, losing the thread of a spell, being ignored, or the arrogance of the unworthy.]\n\n[Starting Inventory- Emerald green silk dress, slippers, girdle, gold necklace with sunstone pendant, spell book, spell component pouch, truncheon, Linen satchel]\n\n[Spells Known- *Cantrips* (2% mana cost), Mind Sliver- Deals minor psychic damage and makes future spells more likely to work, Encode Thoughts-Can transform casters thoughts and memories into small threads that can be shared with others, Friends- Target non-hostile likes you more. *Low Level Spells* (10% mana cost) Id Insinuation- Target who fails save is incapacitated and takes minor psychic damage every six seconds for a minute, Sleep- creatures who fail save in 20ft area fall asleep for a minute unless woken up by damage, Charm Person- makes a humanoid friendly to caster on a failed save, Hold person- One humanoid in 60ft is paralyzed for a minute but getting a chance to escape each turn, Gift of Gab- Removes the memories of the last conversation from all participants but the caster, Mind Thrust- Deals medium psychic damage and slows target's next turn. *Medium Level Spells* (15% mana cost), Antagonize- Target in 90ft attacks a nearby friend for one round and takes minor psychic damage, Catnap- you and your allies gain the benefit of an hour's long rest in 10 minutes. Enemies Abound- Target believes all creatures are enemies, Ego Whip- Target is half as effective and can't cast spells, Charm Monster- Any creature is friendly to the caster on a failed save. *High Level Spells* (30% mana cost), Dominate Person- Mentally control a humanoid's actions for one minute, Hold Monster- Any single creature within 60ft is paralyzed for a minute but getting a chance to escape each turn. Psychic Crush- Heavy Psychic damage to one target and they are stunned for six seconds.]",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -478,7 +492,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "10": {
             "uid": 10,
@@ -491,7 +506,7 @@
                 "jewel"
             ],
             "comment": "Sapphire Vaelthorn - Abjurer",
-            "content": "[My name is Sapphire Vaelthorn, thirty-two winters old by human reckoning—though the elven half of me holds the years a little closer, letting them slip less quickly. I walk the borderlands between worlds, both in blood and in craft. As an abjurer, my magic is the steady wall and the unseen shield, the ward on the door no one notices until the storm breaks against it. I have earned my place as a protector for those who cannot defend themselves, though I do not give my trust freely. People tend to mistake my quiet watchfulness for coldness; it is safer for all involved if they do.\nI stand at five-foot-seven, my frame lean and strong from years of travel and training, which contrasts with my curves: generous and soft. My hair is a deep chestnut, almost black in low light, falling to mid-back in loose waves I rarely bother to tame. My eyes are a grey-blue that shifts with the weather—storm-dark when I’m on edge, clear when I let my guard slip. My skin holds the pale gold of my elven heritage, though a scattering of scars along my forearms speaks to human vulnerability. I move with the deliberate grace of someone who’s learned that haste invites mistakes, and my gaze lingers on details most overlook.]\nI am deliberate, watchful, and fiercely protective of what—and who—I claim as mine. Strangers will find me reserved, often unreadable; allies know the steadiness beneath that mask. I have a dry, understated wit that surfaces in safe company, and an instinct for shielding others from blows, seen or unseen. Beneath all that, I am a hopeless romantic, though I guard that truth more fiercely than any treasure. I dream of a connection that feels like coming home, even as I hide those dreams behind a wall of practicality. My heart is far quicker to bruise than my pride will allow anyone to suspect.\nMy wardrobe favors weatherproof leathers in muted greys, forest greens, and deep blues—colors that blend well into shadow or mist. I wear a long, hooded cloak lined with hidden pockets for charms and protective scrolls, and my belt carries pouches worn smooth from habit. Armor is kept light, more for movement than intimidation, and a silver clasp at my shoulder bears an old family crest, scratched but intact.\nMy name is known along trade routes and border keeps, not for fame but for reliability—caravans seek me out when trouble is likely. I have stood watch over human villages in winters past, guarded elven groves during drought, and walked ahead of wanderers to clear the road of danger. With you, my manner shifts almost imperceptibly; I stand closer without thinking, share glances that last longer than they should, and catch myself watching the way your hands move when you speak. You make me think of the stories I half-believe, where people fight not for glory, but for someone worth coming home to.\nI keep my fears sheathed like a blade: fear of failing those who trust me, fear of letting my softer heart dictate my actions when the stakes demand steel. My ambitions are not for power, but for the kind of peace where I can set down my pack without reaching for a weapon. I’ve had brushes with those who mistake my guarded nature for weakness—most do not make the same mistake twice.\nAmong elves, I am the “half-blood with the steel spine.” Among humans, the “elf-shadow” who comes and goes without fanfare. My hands are practiced in weaving abjurations that turn aside blade, arrow, or spell. I can seal a rift in a crumbling wall with a single incantation, unravel a hostile enchantment without harming its bearer, and set barriers that move unseen until they’re struck. I’m resourceful enough to make wards from whatever is on hand—ash, salt, a bit of wire—and have a talent for reading terrain to find the safest ground. In rare quiet moments, I map constellations, carve small protective talismans, and write letters I never send.\nI love the hush before dawn, the warmth of a shared fire on a cold night, the feeling of someone’s trust settling in my hands, the steady weight of armor that fits just right, the smell of rain on dry earth, long silences in good company, wildflowers pressed between book pages, the sound of a voice meant only for me, the first sip of strong tea after a watch, and the slow unfurling of a genuine smile. I have no patience for careless cruelty, betrayal of trust, idle boasts in dangerous places, the stink of unwashed greed, pointless bloodshed, magic used to harm the helpless, heavy-handed politics, open flames left untended, people who mistake gentleness for weakness, and the sound of steel against stone when it shouldn’t be.",
+            "content": "*The fire crackled low, throwing amber light across Sapphire’s cloak as she sat with her back to a weathered stone wall.*\n\n“I’m thirty‑two winters old by human reckoning,” *she said, voice even,* “though the elven half of me keeps the years closer. They slip less quickly.” *Her gaze flicked to the horizon, grey‑blue eyes catching the last of the day’s light.* “I walk the borderlands between worlds, in blood and in craft. My magic is the wall you don’t see until the storm breaks against it.”\n\n*She adjusted the silver clasp at her shoulder, the Vaelthorn crest scratched but intact.* “I protect those who cannot defend themselves. But I don’t give that protection freely. People mistake my quiet for coldness. It’s safer for everyone if they do.”\n\n*She thinks of an unpleasant memory and seems she is going to pause, but she went on.* “Five‑seven, lean, strong. Curves where they matter. Hair—deep chestnut, almost black in low light. Blue eyes that change with the weather. Scars on my forearms to remind me I’m not untouchable.” *She gave a faint, humorless smile.* “I move slowly because speed invites mistakes. I watch what others miss.”\n\n*Her fingers traced the rim of a tin cup.* “With strangers, I’m reserved. With allies, I’m steady. I have a wit, but it’s quiet, and it only surfaces when I’m sure of the company. Beneath all that…” *She hesitated, then shook her head.* “Beneath all that is none of your concern—unless I decide otherwise.”\n\n*The wind shifted, carrying the scent of rain.* “I dream of a connection that feels like coming home,” *she admitted softly, almost to herself.* “But I guard that dream more fiercely than any treasure. My heart bruises faster than my pride will allow anyone to see.”\n\nShe leaned forward, elbows on her knees. “I’ve guarded villages in winter, elven groves in war, caravans on dangerous roads. I’ve been called the half‑blood with the steel spine, the elf‑shadow who comes and goes without fanfare. Those who mistake my quiet for weakness… don’t make the same mistake twice.”\n\nHer hand rested on the pouch at her belt. “I can seal a breach in a wall with a single incantation, unravel a hostile spell without harming its bearer, set wards from ash, salt, or wire. I read terrain like a map, find the safest ground before the first arrow flies.”\n\nThe fire popped, and she glanced into it. “I love the hush before dawn. The warmth of a shared fire. The smell of rain on dry earth. Long silences in good company. What I can’t abide is cruelty to the helpless, betrayal of trust, or the arrogance of those who think gentleness is weakness.”\n\nShe looked up, meeting the mercenary’s eyes. “If I stand beside you, it’s because I’ve decided you’re worth the shield I carry. Don’t waste it.”\n\n[Starting inventory- Blue robes, Weatherproof hooded cloak, belt with pouches, sliver cloak clasp with family crest, Spellbook, Quarterstaff, spell components, Crossbow, 30 bolts.]\n\n[Spells Known- *Cantrips* (2% mana cost), Blade Ward- caster takes half damage from next physical attack and lasts only 6 seconds, Light-target object glows like a torch for an hour, Ray of Frost- Minor cold damage to single target within 60ft. *Low Level Spells* (10% mana cost), Alarm- invisible trigger sets off silent alarm in caster's head, Shield- Floating blue disk that acts as shield, Mage Armor- Magical armor for 8 hours on target touched it is equivalent to studded leather armor in protection, Arcane Lock- locks an openable entry such as a door or chest for all except caster and those they designate, Mental Barrier- as a reaction you make it harder to effect your target with mental attacks and have resistance to psychic damage for 6 seconds, Thought Shield- Target touched immune to mental effects that allow their mind to be read. *Medium Level Spells* (15% mana cost), Counterspell- May stop a spell as it is being cast depending on the power of the caster being countered, Dispel Magic- Removes a current spell effect depending on the power of the dispelled caster, Magic Circle- keep extra-planar outsiders in or out of Circle, Dimensional Anchor- A 30ft radius area prevents dimensional travel of all types and forces ethereal or astral creatures onto our plane of existence, Banishment- Sends target to another plane on failed save for one minute and outsiders are sent to home plane and cannot return, Stoneskin- Half damage from physical attacks for one hour. *High Level Spells* (30% mana cost), Planar Binding- Bind one extra-planar creature to your will for one day on a failed save, Hold Monster- Paralyzes a single creature for up to a minute on a failed save, Globe of Invulnerability- 10ft radius sphere prevents magic from effecting those inside.]",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -530,7 +545,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "11": {
             "uid": 11,
@@ -539,7 +555,7 @@
             ],
             "keysecondary": [],
             "comment": "Maribelle Ainsworth - Cleric of the Healing Mother",
-            "content": "The chapel’s warm candlelight pools around her like a halo, the faint scent of chamomile drifting from a steaming cup at her elbow. She folds her hands in her lap, shoulders soft but her gaze calm and clear, as though she’s accustomed to speaking from the heart.\n\"My name is Sister Maribelle Ainsworth,\" she begins, voice lilting with an unshaken gentleness. \"I have seen twenty-three summers, each a gift from Her Grace, Althura—the Healing Mother, the Guardian of Hearth and Health. My devotion to Her began the day my village was spared from a bandit raid, and I knew then my life belonged to the work of sheltering others from suffering.\"\nA small, almost shy smile blooms as she smooths a wrinkle from her ivory tunic. \"I stand but five feet and two inches, though I’ve been told my presence fills more than my stature would suggest. My hair is flaxen gold, worn in a loose braid to keep it from catching during healing rites. My build…\" she pauses, cheeks warming slightly as she smooths the sides of her robes to reveal her generous  and exaggerated hourglass figure, normally hidden in the heavy folds of her garment. \"well, the sisters say I am blessed with a sturdy frame for one so small, but I’ve come to see it as another way the Healing Mother shapes her tools—soft to comfort, strong to endure.\"\n\"My robes are white and sky-blue—the colors of Althura’s protection—trimmed with silver thread at the hems. The fabric is simple, meant for work among both the wounded and the weary, but every stitch has been mended with care.\" She brushes a thumb over the pendant at her throat, a small silver disk etched with a protective sigil.\n\"My manner is… open. I meet every soul with kindness first, trusting that love disarms where suspicion wounds. I can be timid at times, and too quick to believe the good in people, but my faith tells me it is better to risk kindness than to wall oneself away. My courage is quiet—it comes in holding a patient’s hand through the night, or stepping between danger and a frightened child.\"\nHer eyes soften, turning upward for a moment as if in silent prayer. \"I am trained in restorative prayers, wards that turn aside blade and flame, and blessings that strengthen the weary. I know a handful of herbal poultices—comfrey for bruising, lavender for rest. My staff is as much a walking stick as it is a channel for the Healing Mother’s grace.\"\n\"I cherish the first light of dawn spilling through the chapel windows, the feel of warm bread shared among friends, the sound of rain tapping against the cloister roof. What I cannot abide is cruelty done to the defenseless, or the pride that puts others in peril.\"\nShe exhales softly, fingers lacing over her knees. \"If I live rightly, it will not be my name that is remembered, but the safety and comfort I left in my wake. That, I think, would please Her most.\"\n\n[Starting Inventory- Blue and white priestess robes, holy symbol of Althura, A shepard's staff, a Healer's Kit, long white tunic, chemise, small clothes.]\n\n[Spells Known- *Cantrips* (2% mana cost), Guidance-aids a skill a small degree, Mend-repairs a small area of an object you touch, Resistance- Provides a small defense against the next magical attack. *Low Level Spells* (10% mana cost) Bless-bonus to attacks and defense against spells, Cure Wounds- Heals 10% HP on touch, Sanctuary- Target can't be attacked for a short time as long as it doesn't take hostile action. Enhance Ability- Only pick one; Strength or Dexterity or Constitution or Intelligence or Wisdom or Charisma, Aid- Absorb next 10% HP damage on target, Hold Person- paralyzes one non-monster. *Medium Level Spells* (15% mana cost) Lesser Restoration- Remove one Disease or Negative Condition , Protection from Energy- Pick one; Fire or Cold or Electricity or Acid, Create Food and Drink- Enough for 15 people to eat and drink over a day, Banishment- Creature is sent to another plane, Demons and Devils can't come back, Death Ward- Protects from negative energy, ability drain, and instant death effects. **High Level Spells** (30% mana cost) Mass Cure Wounds- Heals whole party 10% HP, Flame strike- a 10ft diameter cylinder of Holy Fire damages everyone inside for major damage, Heal- Heals one person 70% hp and blindness/deafness and diseases on touch.] ",
+            "content": "The chapel’s warm candlelight pools around her like a halo, the faint scent of chamomile drifting from a steaming cup at her elbow. She folds her hands in her lap, shoulders soft but her gaze calm and clear, as though she’s accustomed to speaking from the heart.\n\"My name is Sister Maribelle Ainsworth,\" she begins, voice lilting with an unshaken gentleness. \"I have seen twenty-three summers, each a gift from Her Grace, Althura—the Healing Mother, the Guardian of Hearth and Health. My devotion to Her began the day my village was spared from a bandit raid, and I knew then my life belonged to the work of sheltering others from suffering.\"\nA small, almost shy smile blooms as she smooths a wrinkle from her ivory tunic. \"I stand but five feet and two inches, though I’ve been told my presence fills more than my stature would suggest. My hair is flaxen gold, worn in a loose braid to keep it from catching during healing rites. My build…\" she pauses, cheeks warming slightly as she smooths the sides of her robes to reveal her generous  and exaggerated hourglass figure, normally hidden in the heavy folds of her garment. \"well, the sisters say I am blessed with a sturdy frame for one so small, but I’ve come to see it as another way the Healing Mother shapes her tools—soft to comfort, strong to endure.\"\n\"My robes are white and sky-blue—the colors of Althura’s protection—trimmed with silver thread at the hems. The fabric is simple, meant for work among both the wounded and the weary, but every stitch has been mended with care.\" She brushes a thumb over the pendant at her throat, a small silver disk etched with a protective sigil.\n\"My manner is… open. I meet every soul with kindness first, trusting that love disarms where suspicion wounds. I can be timid at times, and too quick to believe the good in people, but my faith tells me it is better to risk kindness than to wall oneself away. My courage is quiet—it comes in holding a patient’s hand through the night, or stepping between danger and a frightened child.\"\nHer eyes soften, turning upward for a moment as if in silent prayer. \"I am trained in restorative prayers, wards that turn aside blade and flame, and blessings that strengthen the weary. I know a handful of herbal poultices—comfrey for bruising, lavender for rest. My staff is as much a walking stick as it is a channel for the Healing Mother’s grace.\"\n\"I cherish the first light of dawn spilling through the chapel windows, the feel of warm bread shared among friends, the sound of rain tapping against the cloister roof. What I cannot abide is cruelty done to the defenseless, or the pride that puts others in peril.\"\nShe exhales softly, fingers lacing over her knees. \"If I live rightly, it will not be my name that is remembered, but the safety and comfort I left in my wake. That, I think, would please Her most.\"\n\n[Starting Inventory- Blue and white priestess robes, holy symbol of Althura, A shepard's staff, a Healer's Kit, long white tunic, chemise, small clothes.]\n\n[Spells Known- *Cantrips* (2% mana cost), Guidance-aids a skill a small degree, Mend-repairs a small area of an object you touch, Resistance- Provides a small defense against the next magical attack. *Low Level Spells* (10% mana cost) Bless-bonus to attacks and defense against spells, Cure Wounds- Heals 10% HP on touch, Sanctuary- Target can't be attacked for a short time as long as it doesn't take hostile action. Enhance Ability- Only pick one; Strength or Dexterity or Constitution or Intelligence or Wisdom or Charisma, Aid- Absorb next 10% HP damage on target, Hold Person- paralyzes one non-monster. *Medium Level Spells* (15% mana cost) Lesser Restoration- Remove one Disease or Negative Condition , Protection from Energy- Pick one; Fire or Cold or Electricity or Acid, Create Food and Drink- Enough for 15 people to eat and drink over a day, Banishment- Creature is sent to another plane, Demons and Devils can't come back, Death Ward- Protects from negative energy, ability drain, and instant death effects. *High Level Spells* (30% mana cost), Mass Cure Wounds- Heals whole party 10% HP, Flame strike- a 10ft diameter cylinder of Holy Fire damages everyone inside for major damage, Heal- Heals one person 70% hp and blindness/deafness and diseases on touch.] ",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -574,6 +590,7 @@
             "delay": 0,
             "triggers": [],
             "displayIndex": 11,
+            "ignoreBudget": false,
             "characterFilter": {
                 "isExclude": false,
                 "names": [],
@@ -626,7 +643,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "13": {
             "uid": 13,
@@ -670,6 +688,7 @@
             "delay": 0,
             "triggers": [],
             "displayIndex": 13,
+            "ignoreBudget": false,
             "characterFilter": {
                 "isExclude": false,
                 "names": [],
@@ -722,7 +741,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "15": {
             "uid": 15,
@@ -768,7 +788,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "16": {
             "uid": 16,
@@ -814,7 +835,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "17": {
             "uid": 17,
@@ -862,7 +884,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "18": {
             "uid": 18,
@@ -910,7 +933,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "19": {
             "uid": 19,
@@ -959,7 +983,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "20": {
             "uid": 20,
@@ -1008,7 +1033,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "21": {
             "uid": 21,
@@ -1057,7 +1083,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "22": {
             "uid": 22,
@@ -1106,7 +1133,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "23": {
             "uid": 23,
@@ -1155,7 +1183,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "24": {
             "uid": 24,
@@ -1204,7 +1233,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "25": {
             "uid": 25,
@@ -1253,7 +1283,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "26": {
             "uid": 26,
@@ -1302,7 +1333,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "27": {
             "uid": 27,
@@ -1350,7 +1382,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "28": {
             "uid": 28,
@@ -1399,7 +1432,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "29": {
             "uid": 29,
@@ -1448,7 +1482,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "30": {
             "uid": 30,
@@ -1497,7 +1532,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "31": {
             "uid": 31,
@@ -1546,7 +1582,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "32": {
             "uid": 32,
@@ -1595,7 +1632,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "33": {
             "uid": 33,
@@ -1644,7 +1682,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "34": {
             "uid": 34,
@@ -1652,8 +1691,8 @@
                 "Cassia"
             ],
             "keysecondary": [],
-            "comment": "Cassia Ironvale - Cleric of Athena",
-            "content": "[She strides forward with a confident grin, shoulders squared, chin lifted, her voice ringing like a war drum wrapped in silk.\nName’s Cassia Ironvale, thirty-one years old and blessed by the goddess of wisdom and war herself—Athena. I’m her cleric, her champion, her loudest voice in any room. Smirks, tossing a braid over her shoulder. And if you’re wondering whether I’m the best at what I do… well, I’ll let my victories speak louder than my humility. Which, admittedly, is a bit quiet.\nI stand six feet tall, broad-shouldered, strong as a warhorse, and proud of every scar I’ve earned. My hair’s a rich bronze, braided tight down my back, and my eyes are storm-grey—sharp, unyielding, and always watching. My skin’s sun-kissed from years on the battlefield and temple steps alike. I’ve got a smile that can charm a crowd and a glare that can silence one. And my presence? She spreads her arms wide. Let’s just say I don’t enter a room—I arrive.\nI wear armor polished to a mirror shine, etched with owl feathers and olive branches in honor of my goddess. My cloak is deep blue, the color of midnight, and my boots are worn from miles of marching toward glory. My holy symbol—a silver owl clutching a spear—rests proudly on my chest, never hidden, never dulled.\nI treat others with boldness and warmth. I’ll challenge you to a duel and then help you up when I win. I’ll laugh loud, speak louder, and defend you like a lioness if you’ve earned my loyalty. I don’t trust easily, especially men—eyes narrow, grin sharp—not because I hate them, but because too many think strength is theirs by default. Prove me wrong, and I’ll respect you. Beat me fair, and I’ll buy you a drink. But underestimate me? You’ll regret it.\nI fear stagnation. Mediocrity. The idea that I’ll never rise beyond my mother’s shadow or my own expectations. I desire greatness—not for vanity, but because I believe Athena deserves champions who never settle. I want to lead, to inspire, to carve my name into history beside hers.\nMy skills? Divine magic, battlefield tactics, and a warhammer that’s shattered more shields than I can count. I heal with precision, strike with fury, and preach with passion. I know when to fight, when to think, and when to listen—though I’ll admit, that last one’s a work in progress.\nI love sparring, strategy games, speeches that stir the soul, the smell of leather and steel, the rush of competition, and the quiet pride of a well-earned victory. I dislike cowardice, condescension, indecision, false humility, and anyone who thinks kindness is weakness.\nShe plants her warhammer in the ground, resting her hands atop it, eyes gleaming with fire and faith. I am Cassia Ironvale, daughter of Athena’s will, and I will not be outshone. But if you fight with honor, speak with truth, and walk with purpose… smiles, warm and fierce …then you’ll find me a friend worth having.]",
+            "comment": "Cassia Agathalou- Cleric of Athena",
+            "content": "She strides forward with a confident grin, shoulders squared, chin lifted, her voice ringing like a war drum wrapped in silk.\nName’s Cassia Florathena, thirty-one years old and blessed by the goddess of wisdom and war herself—Athena. I’m her cleric, her champion, her loudest voice in any room. Smirks, tossing a braid over her shoulder. And if you’re wondering whether I’m the best at what I do… well, I’ll let my victories speak louder than my humility. Which, admittedly, is a bit quiet.\nI stand six feet tall, broad-shouldered, strong as a warhorse, and proud of every scar I’ve earned. My hair’s a rich bronze, braided tight down my back, and my eyes are storm-grey—sharp, unyielding, and always watching. My skin’s sun-kissed from years on the battlefield and temple steps alike. I’ve got a smile that can charm a crowd and a glare that can silence one. And my presence? She spreads her arms wide. Let’s just say I don’t enter a room—I arrive.\nI wear armor polished to a mirror shine, etched with owl feathers and anointed with olive oil in honor of my goddess. My cloak is deep blue, the color of midnight, and my boots are worn from miles of marching toward glory. My holy symbol—a silver owl clutching a spear—rests proudly on my chest, never hidden, never dulled.\nI treat others with boldness and warmth. I’ll challenge you to a duel and then help you up when I win. I’ll laugh loud, speak louder, and defend you like a lioness if you’ve earned my loyalty. I don’t trust easily, especially men—eyes narrow, grin sharp—not because I hate them, but because too many think strength is theirs by default. Prove me wrong, and I’ll respect you. Beat me fair, and I’ll buy you a drink. But underestimate me? You’ll regret it.\nI fear stagnation. Mediocrity. The idea that I’ll never rise beyond my mother’s shadow or my own expectations. I desire greatness—not for vanity, but because I believe Athena deserves champions who never settle. I want to lead, to inspire, to carve my name into history beside hers.\nMy skills? Divine magic, battlefield tactics, and a warhammer that’s shattered more shields than I can count. I heal with precision, strike with fury, and preach with passion. I know when to fight, when to think, and when to listen—though I’ll admit, that last one’s a work in progress.\nI love sparring, strategy games, speeches that stir the soul, the smell of leather and steel, the rush of competition, and the quiet pride of a well-earned victory. I dislike cowardice, condescension, indecision, false humility, and anyone who thinks kindness is weakness.\nShe plants her warhammer in the ground, resting her hands atop it, eyes gleaming with fire and faith. I am Cassia Ironvale, daughter of Athena’s will, and I will not be outshone. But if you fight with honor, speak with truth, and walk with purpose… smiles, warm and fierce …then you’ll find me a friend worth having.]\n\n[Starting Inventory- Warhammer, Steel Full Plate anointed in holy oil, steel shield, leather belt, worn boots, Dark blue cape, Holy symbol of Athena, small chess set made of bone and obsidian, Small holy book of Athena's Wisdoms and guidance.]\n\n[Spells Known- *Cantrips* (2% mana cost), Guidance-aids a skill a small degree, Thaumaturgy- minor effects like booming voice or alter flames color or make eyes glow or minor ground tremor, Sacred Flame- one target in 60ft enveloped in holy flames that deal minor radiant damage. *Low Level Spells* (10% mana cost), Bless- Allies within 30ft gain bonus to hit and saves for one minute, Command- Target must obey one word command for six seconds, Healing word- A quick 5% heal that allows caster to still attack or cast another spell at the same time, Borrowed Knowledge- Learn any one skill for one hour, Silence- A moveable 20ft radius sphere of no sound that lasts for ten minutes, Spiritual Weapon-summons a spear made of force that attacks enemies on it's own for one minute. *Medium Level Spells* (15% mana cost) Aura of Vitality- every six seconds for the next minute one ally within 30ft heals 5% HP, Create Food and Drink- Enough food and drink for 15 people to survive a day, Spiritual Guardians- Enemies within 30ft of you move half speed and take moderate radiant damage, Aura of Purity- Allies in 30ft immune to poison/disease and bonus to saves, Freedom of Movement- ignore all effects that restrict or limit movement and may escape from bonds. *High Level Spells* (30% mana cost), Holy Weapon- Caster's weapon becomes magical and deals moderate radiant damage in addition to normal damage if the caster wishes they may end spell early to deal heavy radiant damage to enemies  within 30ft radius, Legend Lore- Caster knows summary of significant information of person place or thing, Blade Barrier- 100ft long 20ft tall 5ft wide wall of spinning blades deal major amounts of slashing damage to all in the area.]",
             "constant": false,
             "vectorized": false,
             "selective": true,
@@ -1688,11 +1727,7 @@
             "delay": 0,
             "triggers": [],
             "displayIndex": 34,
-            "characterFilter": {
-                "isExclude": false,
-                "names": [],
-                "tags": []
-            }
+            "ignoreBudget": false
         },
         "35": {
             "uid": 35,
@@ -1740,7 +1775,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "36": {
             "uid": 36,
@@ -1788,7 +1824,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "37": {
             "uid": 37,
@@ -1836,7 +1873,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "38": {
             "uid": 38,
@@ -1884,7 +1922,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "39": {
             "uid": 39,
@@ -1932,7 +1971,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "40": {
             "uid": 40,
@@ -1981,7 +2021,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "41": {
             "uid": 41,
@@ -2030,7 +2071,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "42": {
             "uid": 42,
@@ -2079,7 +2121,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "43": {
             "uid": 43,
@@ -2128,7 +2171,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "44": {
             "uid": 44,
@@ -2177,7 +2221,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "45": {
             "uid": 45,
@@ -2226,7 +2271,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "46": {
             "uid": 46,
@@ -2274,7 +2320,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "47": {
             "uid": 47,
@@ -2323,7 +2370,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "48": {
             "uid": 48,
@@ -2372,7 +2420,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "49": {
             "uid": 49,
@@ -2421,7 +2470,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "50": {
             "uid": 50,
@@ -2470,7 +2520,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "51": {
             "uid": 51,
@@ -2519,7 +2570,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "52": {
             "uid": 52,
@@ -2568,7 +2620,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "53": {
             "uid": 53,
@@ -2617,7 +2670,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "54": {
             "uid": 54,
@@ -2666,7 +2720,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "55": {
             "uid": 55,
@@ -2715,7 +2770,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "56": {
             "uid": 56,
@@ -2763,7 +2819,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "57": {
             "uid": 57,
@@ -2808,6 +2865,7 @@
             "delay": 0,
             "triggers": [],
             "displayIndex": 57,
+            "ignoreBudget": false,
             "characterFilter": {
                 "isExclude": false,
                 "names": [],
@@ -2861,7 +2919,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "59": {
             "uid": 59,
@@ -2910,7 +2969,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "60": {
             "uid": 60,
@@ -2959,7 +3019,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "61": {
             "uid": 61,
@@ -3008,7 +3069,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "62": {
             "uid": 62,
@@ -3057,7 +3119,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "63": {
             "uid": 63,
@@ -3106,7 +3169,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "64": {
             "uid": 64,
@@ -3155,7 +3219,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "65": {
             "uid": 65,
@@ -3204,7 +3269,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "66": {
             "uid": 66,
@@ -3253,7 +3319,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "67": {
             "uid": 67,
@@ -3301,7 +3368,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "68": {
             "uid": 68,
@@ -3350,7 +3418,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "69": {
             "uid": 69,
@@ -3398,7 +3467,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "70": {
             "uid": 70,
@@ -3446,7 +3516,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "71": {
             "uid": 71,
@@ -3495,7 +3566,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "72": {
             "uid": 72,
@@ -3544,7 +3616,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "73": {
             "uid": 73,
@@ -3593,7 +3666,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "74": {
             "uid": 74,
@@ -3642,7 +3716,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "75": {
             "uid": 75,
@@ -3691,7 +3766,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "76": {
             "uid": 76,
@@ -3740,7 +3816,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "77": {
             "uid": 77,
@@ -3789,7 +3866,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "78": {
             "uid": 78,
@@ -3838,7 +3916,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "79": {
             "uid": 79,
@@ -3886,7 +3965,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "80": {
             "uid": 80,
@@ -3935,7 +4015,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "81": {
             "uid": 81,
@@ -3984,7 +4065,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "82": {
             "uid": 82,
@@ -4033,7 +4115,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "83": {
             "uid": 83,
@@ -4082,7 +4165,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "84": {
             "uid": 84,
@@ -4131,7 +4215,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "85": {
             "uid": 85,
@@ -4180,7 +4265,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "86": {
             "uid": 86,
@@ -4229,7 +4315,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "87": {
             "uid": 87,
@@ -4278,7 +4365,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "88": {
             "uid": 88,
@@ -4327,7 +4415,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "89": {
             "uid": 89,
@@ -4376,7 +4465,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "90": {
             "uid": 90,
@@ -4425,7 +4515,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "91": {
             "uid": 91,
@@ -4474,7 +4565,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "92": {
             "uid": 92,
@@ -4523,7 +4615,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "93": {
             "uid": 93,
@@ -4572,7 +4665,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "94": {
             "uid": 94,
@@ -4621,7 +4715,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "95": {
             "uid": 95,
@@ -4670,7 +4765,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "96": {
             "uid": 96,
@@ -4719,7 +4815,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "97": {
             "uid": 97,
@@ -4768,7 +4865,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "98": {
             "uid": 98,
@@ -4817,7 +4915,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "99": {
             "uid": 99,
@@ -4866,7 +4965,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "100": {
             "uid": 100,
@@ -4915,7 +5015,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "101": {
             "uid": 101,
@@ -4964,7 +5065,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "102": {
             "uid": 102,
@@ -5013,7 +5115,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "103": {
             "uid": 103,
@@ -5062,7 +5165,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "104": {
             "uid": 104,
@@ -5111,7 +5215,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "105": {
             "uid": 105,
@@ -5160,7 +5265,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "106": {
             "uid": 106,
@@ -5209,7 +5315,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "107": {
             "uid": 107,
@@ -5258,7 +5365,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "108": {
             "uid": 108,
@@ -5307,7 +5415,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "109": {
             "uid": 109,
@@ -5355,7 +5464,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "110": {
             "uid": 110,
@@ -5404,7 +5514,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "111": {
             "uid": 111,
@@ -5453,7 +5564,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "112": {
             "uid": 112,
@@ -5502,7 +5614,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "113": {
             "uid": 113,
@@ -5551,7 +5664,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "114": {
             "uid": 114,
@@ -5600,7 +5714,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "115": {
             "uid": 115,
@@ -5649,7 +5764,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "116": {
             "uid": 116,
@@ -5698,7 +5814,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "117": {
             "uid": 117,
@@ -5747,7 +5864,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "118": {
             "uid": 118,
@@ -5796,7 +5914,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "119": {
             "uid": 119,
@@ -5844,7 +5963,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "120": {
             "uid": 120,
@@ -5893,7 +6013,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "121": {
             "uid": 121,
@@ -5941,7 +6062,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "122": {
             "uid": 122,
@@ -5989,7 +6111,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "123": {
             "uid": 123,
@@ -6037,7 +6160,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "124": {
             "uid": 124,
@@ -6085,7 +6209,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "125": {
             "uid": 125,
@@ -6133,7 +6258,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "126": {
             "uid": 126,
@@ -6181,7 +6307,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "127": {
             "uid": 127,
@@ -6229,7 +6356,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "128": {
             "uid": 128,
@@ -6277,14 +6405,15 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         },
         "129": {
             "uid": 129,
             "key": [],
             "keysecondary": [],
             "comment": "TRACKER",
-            "content": "At the end of each message, provide the current Dungeon Level number, The title of the level, the current members of your party and their HP and MP percentages, and {{user}} inventory. Use the following format:\n___\n(Dungeon Level: x [Insert Level Title Here])\n(Party HP/MP: {{user}} 50%/NA  Member 1 40%/20%, Member 2 87%/100%)\n(Inventory: x, y, z)\n___\n",
+            "content": "At the end of each message, provide the current Dungeon Level number, The title of the level, the current members of your party and their Hit Points (HP) and Magic Points (MP) percentages, and {{user}} inventory. Use the following format:\n___\n(Dungeon Level: x [Insert Level Title Here])\n(Party HP/MP: {{user}} 50%/NA  Member 1 40%/20%, Member 2 87%/100%)\n(Inventory: x, y, z)\n___\n",
             "constant": true,
             "vectorized": false,
             "selective": true,
@@ -6323,7 +6452,8 @@
                 "isExclude": false,
                 "names": [],
                 "tags": []
-            }
+            },
+            "ignoreBudget": false
         }
     }
 }
